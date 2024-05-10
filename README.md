@@ -3,8 +3,6 @@
 사용자가 원하는 키워드를 입력하면 그에 맞는 카페를 추천해주는 프로그램을 만듭니다. 
 ## 개발환경
 Pycharm
-## High Level Design
-
 ## 시연영상
 ### 메뉴로 검색
 <img src="./img_video/find_by_menu.gif" width=450 height=250>
