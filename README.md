@@ -7,12 +7,12 @@ Pycharm
 
 ## 시연영상
 ### 메뉴로 검색
-<img src="./image_video/find_by_menu.gif">
+<img src="./img_video/find_by_menu.gif">
 원본영상(이 링크의 raw file 다운로드시 좀 더 크고 명확한 영상을 확인하실 수 있습니다. ) :
 
 
 ### 특징으로 검색
-<img src="./image_video/find_by_keyword.gif">
+<img src="./img_video/find_by_keyword.gif">
 원본영상 :
 
 
