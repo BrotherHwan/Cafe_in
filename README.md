@@ -18,7 +18,11 @@ Pycharm
 
 ### 특징으로 검색
 <img src="./img_video/find_by_keyword.gif" width=450 height=250>
-원본영상 :
+영상 설명<br/>
+1. 원하는 지역을 선택하고 원하는 특징을 입력합니다.<br/>
+2. 가장 상단에 추천된 카페를 검색하여 원하는 특징에 대해 적절한 카페가 추천되었는지 확인합니다.<br/><br/>
+
+원본영상 : https://github.com/BrotherHwan/Cafe_in/blob/main/img_video/find_by_keyword.mp4
 
 
 
